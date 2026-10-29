@@ -1,0 +1,25 @@
+name: talking-xgo
+services:
+  body:
+    image: talking-xgo-body:local
+    build:
+      context: ..
+      dockerfile: xgo-sim/Dockerfile.body
+    container_name: talking-xgo-body
+    init: true
+    read_only: true
+    tmpfs: [/tmp]
+    ports: ["127.0.0.1:8766:8766"]
+  onboard:
+    image: talking-xgo-onboard:local
+    build:
+      context: ..
+      dockerfile: xgo-sim/Dockerfile.onboard
+    container_name: talking-xgo-onboard
+    init: true
+    read_only: true
+    tmpfs: [/tmp]
+    depends_on: [body]
+    environment:
+      TALKING_DUCK_RANGE_URL: http://body:8766/ranges
+    ports: ["127.0.0.1:8875:8765", "127.0.0.1:9527:9527"]

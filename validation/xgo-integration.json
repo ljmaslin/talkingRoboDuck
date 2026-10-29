@@ -1,0 +1,131 @@
+{
+  "target": "XGO-Duck",
+  "physical_hardware_validated": false,
+  "checks": {
+    "backend_and_geometry": true,
+    "unprefixed": {
+      "accepted": false,
+      "transcript": "sit"
+    },
+    "negated": {
+      "accepted": false,
+      "transcript": "duck do not sit"
+    },
+    "ambiguous": {
+      "accepted": false,
+      "transcript": "duck sit and stand"
+    },
+    "question": {
+      "accepted": false,
+      "transcript": "duck what time is it"
+    },
+    "sit_unavailable": {
+      "transcript": "duck sit",
+      "general_transcript": "doc said",
+      "confidence": 1.0,
+      "command": "sit",
+      "command_transcript": "duck sit",
+      "command_confidence": 1.0,
+      "recognition_mode": "command vocabulary with general-language veto",
+      "recognition_ms": 1958,
+      "controller": {
+        "accepted": false,
+        "reason": "Sit is recognised, but this XGO runtime has no deployed sit/stand policy. No movement requested."
+      }
+    },
+    "spoken_stand": {
+      "result": {
+        "transcript": "duck standup",
+        "general_transcript": "duck standup",
+        "confidence": 1.0,
+        "command": "stand",
+        "command_transcript": "duck standup",
+        "command_confidence": 1.0,
+        "recognition_mode": "command vocabulary with general-language veto",
+        "recognition_ms": 3289,
+        "controller": {
+          "accepted": true,
+          "reason": "XGO walking/get-up policy enabled with zero travel command."
+        }
+      },
+      "physics": {
+        "robot": "XGO-Duck",
+        "role": "External MuJoCo body + emulated MCU",
+        "simulation_seconds": 3.019999999999958,
+        "realtime_factor": 1,
+        "trunk_z": 0.1373021145116874,
+        "base": [
+          0.0054135520866193994,
+          0.0005685827258822271,
+          0.1373021145116874,
+          0.9999199000867639,
+          -0.0016337762519862127,
+          0.012245333721566429,
+          0.0027524512135080046
+        ],
+        "enabled": true,
+        "paused_until_first_arm": false,
+        "motor_model": "XGO 1910 M6 BAM, 7.4V, firmware kp=5",
+        "physical_joints_in_model": 14,
+        "mouth_motor": "virtual feedback only; walking MJCF has no mouth hinge",
+        "firmware_executed": false,
+        "watchdog": false,
+        "invalid_commands": 0,
+        "environment": "2.4 m room, three boxes",
+        "room_contact_steps": 0
+      }
+    },
+    "spoken_walk_and_expiry": {
+      "travel_m": 0.24096685899901457,
+      "result": {
+        "transcript": "duck walk forward",
+        "general_transcript": "duck walk forward",
+        "confidence": 1.0,
+        "command": "walk",
+        "command_transcript": "duck walk forward",
+        "command_confidence": 1.0,
+        "recognition_mode": "command vocabulary with general-language veto",
+        "recognition_ms": 2597,
+        "controller": {
+          "accepted": true,
+          "reason": "XGO forward command, at most two seconds; measured travel is shown by the simulator."
+        }
+      },
+      "physics": {
+        "robot": "XGO-Duck",
+        "role": "External MuJoCo body + emulated MCU",
+        "simulation_seconds": 8.18499999999988,
+        "realtime_factor": 1,
+        "trunk_z": 0.13812783809478493,
+        "base": [
+          0.24610402392451136,
+          0.012106515916185381,
+          0.13812783809478493,
+          0.9903911040097428,
+          -0.002469697214760099,
+          0.023120473401766622,
+          0.13632609949568467
+        ],
+        "enabled": true,
+        "paused_until_first_arm": false,
+        "motor_model": "XGO 1910 M6 BAM, 7.4V, firmware kp=5",
+        "physical_joints_in_model": 14,
+        "mouth_motor": "virtual feedback only; walking MJCF has no mouth hinge",
+        "firmware_executed": false,
+        "watchdog": false,
+        "invalid_commands": 0,
+        "environment": "2.4 m room, three boxes",
+        "room_contact_steps": 0
+      }
+    },
+    "spoken_stop_cancels_walk": true
+  },
+  "package_sha256": "91dd4aa4a41f41ee615e9742d82620bd6aac6fc3ab699715ce1e6b18a2cc3797",
+  "rates": {
+    "feedback_hz": 100.39823668833554,
+    "inference_hz": 49.49742629250399,
+    "bad_frames": 0,
+    "mcu_invalid_commands": 0
+  },
+  "status": "passed"
+}

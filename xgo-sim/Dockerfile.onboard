@@ -1,0 +1,13 @@
+FROM python:3.12-slim-bookworm@sha256:6dd8b6dab6b3adc7812bab69eca5dbdc1a5cc690ad28306d234ffb4ef8ac9753
+ENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1
+COPY xgo-runtime/python/requirements.txt /tmp/requirements.txt
+RUN pip install --no-cache-dir -r /tmp/requirements.txt
+# Built from exactly the importable App Lab bundle, not a separate simulator app.
+COPY artifacts/talking-xgo-0.2.0.zip /tmp/app.zip
+RUN python -m zipfile -e /tmp/app.zip /opt/apps && rm /tmp/app.zip
+COPY xgo-sim/bridge.py xgo-sim/onboard.py /test-equipment/
+ENV PYTHONPATH=/opt/apps/talking-xgo/python XGO_BODY_HOST=body
+WORKDIR /opt/apps/talking-xgo
+ENV OPENBLAS_NUM_THREADS=1 OMP_NUM_THREADS=1 MKL_NUM_THREADS=1
+USER 65532:65532
+CMD ["python", "/test-equipment/onboard.py"]

@@ -1,0 +1,10 @@
+* text=auto eol=lf
+*.cmd text eol=crlf
+*.patch -text
+*.wav -text
+*.png -text
+*.so.1 -text
+# Preserve upstream source/notice formatting while checking our own additions.
+viewer/vendor/** -whitespace
+runtime-overlay/**/COPYRIGHT -whitespace
+*.patch -whitespace

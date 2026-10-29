@@ -1,0 +1,351 @@
+{
+  "uno-q": {
+    "url": "https://thepihut.com/products/arduino-uno-q.js",
+    "title": "Arduino UNO Q",
+    "variants": [
+      {
+        "id": 54858352656769,
+        "title": "2GB",
+        "price": 5670,
+        "available": true,
+        "sku": "ABX00162"
+      },
+      {
+        "id": 54858352689537,
+        "title": "4GB",
+        "price": 7120,
+        "available": true,
+        "sku": "ABX00173"
+      }
+    ]
+  },
+  "xgo-kit": {
+    "url": "https://shop.xgorobot.com/products/xgo-duck-biped-robot-electronics-kit-arduino-uno-q.js",
+    "title": "XGO-Duck Biped Robot Electronics Kit (Arduino UNO Q Board NOT Included)",
+    "variants": [
+      {
+        "id": 68379124138235,
+        "title": "Default Title",
+        "price": 40000,
+        "available": true,
+        "sku": null
+      }
+    ]
+  },
+  "xgo-board": {
+    "url": "https://shop.xgorobot.com/products/robot-driver-board.js",
+    "title": "XGO-Duck Accessories Robot Driver Board for Arduino UNO Q",
+    "variants": [
+      {
+        "id": 68308020297979,
+        "title": "Only Robot Driver Board for Arduino UNO Q",
+        "price": 2000,
+        "available": true,
+        "sku": null
+      },
+      {
+        "id": 68356677173499,
+        "title": "Only Battery(4000mAh) & Charger Bundle",
+        "price": 5000,
+        "available": true,
+        "sku": null
+      }
+    ]
+  },
+  "openelab-servo": {
+    "url": "https://openelab.com/products/feetech-hd1910-microduck-coreless-servo.js",
+    "title": "Feetech HD-1910-C001 Coreless TTL Servo for Microduck Robotics",
+    "variants": [
+      {
+        "id": 57201465393476,
+        "title": "HD-1910-C001  Motor",
+        "price": 3499,
+        "available": true,
+        "sku": "Feetech-HD-1910-C001"
+      },
+      {
+        "id": 57201465688388,
+        "title": "URT2 Test board",
+        "price": 1699,
+        "available": true,
+        "sku": "Feetech-FE-URT2-C001"
+      }
+    ]
+  },
+  "bambu-a1": {
+    "url": "https://uk.store.bambulab.com/products/a1.js",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "bambu-mini": {
+    "url": "https://uk.store.bambulab.com/products/a1-mini.js",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "antex-kit": {
+    "url": "https://thepihut.com/products/antex-xs25-engineers-toolkit-kc8jsz0.js",
+    "title": "Antex XS25 Engineer's Toolkit (KC8JSZ0)",
+    "variants": [
+      {
+        "id": 39435315019971,
+        "title": "Default Title",
+        "price": 6990,
+        "available": true,
+        "sku": "103534"
+      }
+    ]
+  },
+  "minnow-bits": {
+    "url": "https://thepihut.com/products/ifixit-minnow-precision-bit-set.js",
+    "title": "iFixit Minnow Precision Bit Set",
+    "variants": [
+      {
+        "id": 40787305529539,
+        "title": "Default Title",
+        "price": 1400,
+        "available": true,
+        "sku": "EU145474-1"
+      }
+    ]
+  },
+  "calipers": {
+    "url": "https://thepihut.com/products/150mm-composite-electronic-digital-calipers.js",
+    "title": "150mm Composite Electronic Digital Calipers",
+    "variants": [
+      {
+        "id": 42044627747011,
+        "title": "Default Title",
+        "price": 950,
+        "available": true,
+        "sku": "105194"
+      }
+    ]
+  },
+  "lr44": {
+    "url": "https://thepihut.com/products/lr44-1-5v-alkaline-coin-cell-battery.js",
+    "title": "LR44 1.5V Alkaline Coin Cell Battery",
+    "variants": [
+      {
+        "id": 42453684551875,
+        "title": "Default Title",
+        "price": 190,
+        "available": true,
+        "sku": "105478"
+      }
+    ]
+  },
+  "respeaker": {
+    "url": "https://thepihut.com/products/respeaker-lite-with-xiao-esp32s3.js",
+    "title": "ReSpeaker Lite with XIAO ESP32S3",
+    "variants": [
+      {
+        "id": 43920824828099,
+        "title": "Default Title",
+        "price": 2880,
+        "available": true,
+        "sku": "106055"
+      }
+    ]
+  },
+  "respeaker-speaker": {
+    "url": "https://thepihut.com/products/mono-enclosed-speaker-4r-5w.js",
+    "title": "Mono Enclosed Speaker for ReSpeaker Lite (4-ohm 5W)",
+    "variants": [
+      {
+        "id": 43920417751235,
+        "title": "Default Title",
+        "price": 240,
+        "available": true,
+        "sku": "106075"
+      }
+    ]
+  },
+  "usb-hub": {
+    "url": "https://thepihut.com/products/arduino-usb-c-hub-8-in-1.js",
+    "title": "Arduino USB-C Hub (8-in-1)",
+    "variants": [
+      {
+        "id": 55854091600257,
+        "title": "Default Title",
+        "price": 1440,
+        "available": true,
+        "sku": "TPX00241"
+      }
+    ]
+  },
+  "usb-psu": {
+    "url": "https://thepihut.com/products/arduino-usb-c-power-supply-45w.js",
+    "title": "Arduino USB-C Power Supply (45W)",
+    "variants": [
+      {
+        "id": 55853882245505,
+        "title": "Default Title",
+        "price": 1440,
+        "available": true,
+        "sku": "TPX00242"
+      }
+    ]
+  },
+  "usb-cable": {
+    "url": "https://thepihut.com/products/arduino-usb-c-cable.js",
+    "title": "Arduino USB-C Cable",
+    "variants": [
+      {
+        "id": 55857460216193,
+        "title": "Default Title",
+        "price": 510,
+        "available": true,
+        "sku": "TPX00243"
+      }
+    ]
+  },
+  "deburring": {
+    "url": "https://thepihut.com/products/3d-print-deburring-tool-10x-blades.js",
+    "title": "3D Print Deburring Tool + 10x Blades",
+    "variants": [
+      {
+        "id": 41721996935363,
+        "title": "Default Title",
+        "price": 790,
+        "available": true,
+        "sku": "105012"
+      }
+    ]
+  },
+  "practice-kit": {
+    "url": "https://thepihut.com/products/blinky-light-kit-learn-to-solder.js",
+    "title": "Blinky Light Kit \u2013 Learn To Solder!",
+    "variants": [
+      {
+        "id": 40887644094659,
+        "title": "Red",
+        "price": 450,
+        "available": true,
+        "sku": "KIT-011-RED"
+      },
+      {
+        "id": 40887644127427,
+        "title": "Green",
+        "price": 450,
+        "available": true,
+        "sku": "KIT-011-GREEN"
+      },
+      {
+        "id": 40887644192963,
+        "title": "Blue",
+        "price": 450,
+        "available": true,
+        "sku": "104160"
+      },
+      {
+        "id": 40887644160195,
+        "title": "Orange",
+        "price": 450,
+        "available": true,
+        "sku": "104158"
+      }
+    ]
+  },
+  "sunlu-s2": {
+    "url": "https://uk.store.sunlu.com/products/new-version-sunlu-filadryer-s2.js",
+    "title": "SUNLU Filament Dryer S2, 360\u00b0 Surround Heating During 3D Printing, Dryer and Filament Bundle, Get PLA at \u00a35/KG",
+    "variants": [
+      {
+        "id": 47448835227967,
+        "title": "FilaDryer S2 / Black / 1 *S2 (Black) | No Bundle",
+        "price": 3824,
+        "available": false,
+        "sku": "DLZ-UK-SL-S2FD-UK"
+      },
+      {
+        "id": 67814303236415,
+        "title": "FilaDryer S2 / Black / 1 *S2 (Black) + Random Engineering Filament 1KG*1(=\u00a319.99/KG)",
+        "price": 3824,
+        "available": false,
+        "sku": "DLZ-UK-SL-S2FD-UK+PA6CF*1KG"
+      },
+      {
+        "id": 67814303269183,
+        "title": "FilaDryer S2 / Black / 1 *S2 (Black) + Random Engineering Filament 1KG*2(=\u00a317.49/KG)",
+        "price": 3824,
+        "available": false,
+        "sku": null
+      },
+      {
+        "id": 49647573303615,
+        "title": "FilaDryer S2 / Black / 1 *S2 (Black) + Random Filament 1KG*3(=\u00a35/KG)",
+        "price": 5324,
+        "available": false,
+        "sku": "DLZ-UK-SL-S2FD-UK+PLA+-1KG*3"
+      },
+      {
+        "id": 53500712419647,
+        "title": "FilaDryer S2 / Black / 1 *S2 (Black) + Random Filament 1KG*2(=\u00a37/KG)",
+        "price": 5224,
+        "available": false,
+        "sku": "DLZ-UK-SL-S2FD-UK+PLA+-1KG*2"
+      },
+      {
+        "id": 53500712452415,
+        "title": "FilaDryer S2 / Black / 1 *S2 (Black) + Random Filament 1KG*1(=\u00a38/KG)",
+        "price": 4624,
+        "available": false,
+        "sku": "DLZ-UK-SL-S2FD-UK+PLA+-1KG"
+      },
+      {
+        "id": 49718316990783,
+        "title": "FilaDryer S2 / Black / 2 Set*S2 Black (10% OFF)",
+        "price": 6883,
+        "available": false,
+        "sku": "DLZ-UK-SL-S2FD-UK*2"
+      },
+      {
+        "id": 53845777023295,
+        "title": "FilaDryer S2 / White / 1 *S2 (White) | No Bundle",
+        "price": 3824,
+        "available": true,
+        "sku": "DLZ-UK-SL-S2FD-WT-UK"
+      },
+      {
+        "id": 53845777056063,
+        "title": "FilaDryer S2 / White / 1 *S2 (White) + Random Filament 1KG*3(=\u00a35/KG)",
+        "price": 5324,
+        "available": true,
+        "sku": "DLZ-UK-SL-S2FD-WT-UK+PLA+-1KG*3"
+      },
+      {
+        "id": 53845777088831,
+        "title": "FilaDryer S2 / White / 1 *S2 (White) + Random Filament 1KG*2(=\u00a37/KG)",
+        "price": 5224,
+        "available": true,
+        "sku": "DLZ-UK-SL-S2FD-WT-UK+PLA+-1KG*2"
+      },
+      {
+        "id": 53845777121599,
+        "title": "FilaDryer S2 / White / 1 *S2 (White) + Random Filament 1KG*1(=\u00a38/KG)",
+        "price": 4624,
+        "available": true,
+        "sku": "DLZ-UK-SL-S2FD-WT-UK+PLA+-1KG"
+      },
+      {
+        "id": 53845777154367,
+        "title": "FilaDryer S2 / White / 2 Set*S2 White (10% OFF)",
+        "price": 6883,
+        "available": true,
+        "sku": "DLZ-UK-SL-S2FD-WT-UK*2"
+      },
+      {
+        "id": 67814307889471,
+        "title": "FilaDryer S2 / White / 1 *S2 (White) + Random Engineering Filament 1KG*1(=\u00a319.99/KG)",
+        "price": 3824,
+        "available": false,
+        "sku": null
+      },
+      {
+        "id": 67814307922239,
+        "title": "FilaDryer S2 / White / 1 *S2 (White) + Random Engineering Filament 1KG*2(=\u00a317.49/KG)",
+        "price": 3824,
+        "available": false,
+        "sku": null
+      }
+    ]
+  }
+}

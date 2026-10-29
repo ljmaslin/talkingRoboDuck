@@ -1,0 +1,104 @@
+{
+  "mini": {
+    "url": "https://www.additive-x.com/shop/bambu-lab-a1-mini-3d-printer.html",
+    "evidence": [
+      "<div class=\"product-info-stock-sku\">    \t\t<div class=\"stock available\" title=\"Availability\">",
+      "          data-price-amount=\"115.83\"",
+      "    \t <span  id=\"price-including-tax-product-price-2544\"        data-label=\"Incl.&#x20;VAT\"        data-price-amount=\"138.996001\"",
+      "          data-price-amount=\"124.17\"",
+      "    \t <span  id=\"price-including-tax-old-price-2544\"        data-label=\"Incl.&#x20;VAT\"        data-price-amount=\"149.004001\"",
+      "          data-price-amount=\"150\"",
+      "    \t <span  id=\"price-including-tax-2544\"        data-label=\"Incl.&#x20;VAT\"        data-price-amount=\"180.000001\"",
+      "          data-price-amount=\"26.66\"",
+      "    \t <span  id=\"price-including-tax-product-price-2398\"        data-label=\"Incl.&#x20;VAT\"        data-price-amount=\"31.992001\"",
+      "          data-price-amount=\"14.16\"",
+      "    \t <span  id=\"price-including-tax-product-price-2236\"        data-label=\"Incl.&#x20;VAT\"        data-price-amount=\"16.992001\"",
+      "          data-price-amount=\"85\"",
+      "    \t <span  id=\"price-including-tax-product-price-2640\"        data-label=\"Incl.&#x20;VAT\"        data-price-amount=\"102.000001\"",
+      "          data-price-amount=\"199.17\"",
+      "    \t <span  id=\"price-including-tax-product-price-2545\"        data-label=\"Incl.&#x20;VAT\"        data-price-amount=\"239.004001\"",
+      "          data-price-amount=\"215.83\"",
+      "    \t <span  id=\"price-including-tax-old-price-2545\"        data-label=\"Incl.&#x20;VAT\"        data-price-amount=\"258.996001\"",
+      "rency\":\"GBP\",\"value\":139,\"items\":[{\"item_id\":\"BAMA1M-U1\",\"item_name\":\"Bambu Lab A1 Mini 3D Printer\",\"price\":139}]}});"
+    ]
+  },
+  "a1": {
+    "url": "https://www.additive-x.com/shop/bambu-lab-a1-3d-printer.html",
+    "evidence": [
+      "<div class=\"product-info-stock-sku\">    \t\t<div class=\"stock available\" title=\"Availability\">",
+      "          data-price-amount=\"157.5\"",
+      "    \t <span  id=\"price-including-tax-product-price-2543\"        data-label=\"Incl.&#x20;VAT\"        data-price-amount=\"189.000001\"",
+      "          data-price-amount=\"174.17\"",
+      "    \t <span  id=\"price-including-tax-old-price-2543\"        data-label=\"Incl.&#x20;VAT\"        data-price-amount=\"209.004001\"",
+      "          data-price-amount=\"14.16\"",
+      "    \t <span  id=\"price-including-tax-product-price-2236\"        data-label=\"Incl.&#x20;VAT\"        data-price-amount=\"16.992001\"",
+      "          data-price-amount=\"26.66\"",
+      "    \t <span  id=\"price-including-tax-product-price-2398\"        data-label=\"Incl.&#x20;VAT\"        data-price-amount=\"31.992001\"",
+      "          data-price-amount=\"85\"",
+      "    \t <span  id=\"price-including-tax-product-price-2640\"        data-label=\"Incl.&#x20;VAT\"        data-price-amount=\"102.000001\"",
+      "          data-price-amount=\"5.55\"",
+      "    \t <span  id=\"price-including-tax-product-price-1308\"        data-label=\"Incl.&#x20;VAT\"        data-price-amount=\"6.660001\"",
+      "          data-price-amount=\"240.83\"",
+      "    \t <span  id=\"price-including-tax-product-price-2542\"        data-label=\"Incl.&#x20;VAT\"        data-price-amount=\"288.996001\"",
+      "          data-price-amount=\"265.83\"",
+      "    \t <span  id=\"price-including-tax-old-price-2542\"        data-label=\"Incl.&#x20;VAT\"        data-price-amount=\"318.996001\"",
+      ":{\"currency\":\"GBP\",\"value\":189,\"items\":[{\"item_id\":\"BAMA1-U1\",\"item_name\":\"Bambu Lab A1 3D Printer\",\"price\":189}]}});"
+    ]
+  },
+  "dryer": {
+    "url": "https://www.3djake.uk/sunlu/fila-dryer-s2",
+    "evidence": [
+      "6de0381d4ecf2b9_4060429230_GB_en\"><meta name=\"description\" content=\"Smart filament dry box. Price: \u00a358.63. 124 Customer Reviews. Delivery in 5 days.\"><link rel=\"alternate\" href=\"https://www.3djake.com/sunlu/fila-dryer-s2\" hreflang=\"en\"><link rel=\"alternat",
+      " property=\"og:title\" content=\"Fila Dryer S2 1 pc\" /> <meta property=\"product:price:amount\" content=\"58.63\"> <meta property=\"product:price:currency\" content=\"GBP\">       <meta property=\"og:image\" content=\"https://3d.nice-cdn.com/upload/image/product/large/",
+      "uk/sunlu/fila-dryer-s2\" /> <meta property=\"og:description\" content=\"Smart filament dry box. Price: \u00a358.63. 124 Customer Reviews. Delivery in 5 days. \">    <script>",
+      "> </div> </div>   <div class=\"p-price\">   <p class=\"p-price__main\"> <span class=\"p-price__reduced\">\u00a358.63</span> <span class=\"p-price__instead\">\u00a363.00</span> <span class=\"chip chip--sale chip--large\">-7%</span> </p> <p class=\"p-price__info\">",
+      "        price-formatted=\"\u00a358.63\" product-title=\"Fila Dryer S2\"",
+      " <tr> <th class=\"p-offer__itemName\">SUNLU Fila Dryer S2</th> <td class=\"p-offer__itemPrice\"> <span>\u00a358.63</span> </td> </tr> <tr> <th class=\"p-offer__itemName\"> <a is=\"trackable-link\" class=\"p-offer__itemLink\" href=\"/polymaker/polyterra-pla-charcoal-black",
+      "brand\":{\"@type\":\"Brand\",\"name\":\"SUNLU\"},\"offers\":{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"Offer\",\"price\":\"58.63\",\"url\":\"https:\\/\\/www.3djake.uk\\/sunlu\\/fila-dryer-s2\",\"priceCurrency\":\"GBP\",\"itemCondition\":\"https:\\/\\/schema.org\\/NewCondition\",\"availability"
+    ]
+  },
+  "battery": {
+    "url": "https://thepihut.com/products/x-power-9v-6lr61-alkaline-battery.js",
+    "evidence": [
+      {
+        "title": "Default Title",
+        "price": 450,
+        "available": true,
+        "sku": "104896"
+      }
+    ]
+  },
+  "ties": {
+    "url": "https://thepihut.com/products/100mm-black-cable-ties.js",
+    "evidence": [
+      {
+        "title": "Default Title",
+        "price": 150,
+        "available": true,
+        "sku": "103060"
+      }
+    ]
+  },
+  "psu": {
+    "url": "https://thepihut.com/products/arduino-usb-c-power-supply-45w.js",
+    "evidence": [
+      {
+        "title": "Default Title",
+        "price": 1440,
+        "available": true,
+        "sku": "TPX00242"
+      }
+    ]
+  },
+  "calipers": {
+    "url": "https://thepihut.com/products/150mm-composite-electronic-digital-calipers.js",
+    "evidence": [
+      {
+        "title": "Default Title",
+        "price": 950,
+        "available": true,
+        "sku": "105194"
+      }
+    ]
+  }
+}

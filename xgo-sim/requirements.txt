@@ -1,0 +1,5 @@
+mujoco==3.7.0
+numpy==2.4.6
+onnxruntime==1.24.4
+vosk==0.3.45
+colorama==0.4.6

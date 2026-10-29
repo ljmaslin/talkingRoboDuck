@@ -1,0 +1,14 @@
+{
+  "xgo-runtime": {
+    "url": "https://github.com/LuwuDynamics/xgoduck_runtime_arduino.git",
+    "revision": "8837d5a3bc7cf3746f6da2b55c7b9191026b9838"
+  },
+  "xgo-rl": {
+    "url": "https://github.com/LuwuDynamics/xgoduck_rl.git",
+    "revision": "fa621fc77ad9a05d69da13270e86118bdd3603fe"
+  },
+  "research/xgoduck_hardware": {
+    "url": "https://github.com/LuwuDynamics/xgoduck_hardware.git",
+    "revision": "106186e1beda690c28f485a754538d6f41b5d025"
+  }
+}

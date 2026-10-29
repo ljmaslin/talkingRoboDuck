@@ -1,0 +1,2532 @@
+{
+  "status": "passed",
+  "seconds": 90,
+  "measured_path_m": 8.422094810339877,
+  "obstacle_turns": 14,
+  "room_contact_steps": 0,
+  "sensor": "Ideal simulated horizontal depth slice; no physical sensor driver",
+  "physical_hardware_validated": false,
+  "samples": [
+    {
+      "second": 1,
+      "base": [
+        0.08718934146520205,
+        0.03552829825057375,
+        0.1456585643394636,
+        0.9952544842741015,
+        -0.07242490263966733,
+        0.042513746763251314,
+        0.04915003912590235
+      ],
+      "height": 0.1456585643394636,
+      "contacts": 0,
+      "command": [
+        0.2,
+        0.0,
+        -0.00524602955073207
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 0,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.508,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 2,
+      "base": [
+        0.18280131402024666,
+        0.03981868829594411,
+        0.14071937553591427,
+        0.9921758719347781,
+        -0.0697472162180609,
+        0.03967249219841907,
+        0.09564757363917167
+      ],
+      "height": 0.14071937553591427,
+      "contacts": 0,
+      "command": [
+        0.2,
+        0.0,
+        -0.058347011385215
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 0,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.408,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 3,
+      "base": [
+        0.2459236276259202,
+        0.004593373972582226,
+        0.1450420798707037,
+        0.9617494813560945,
+        0.040818367951114105,
+        0.012224620020252808,
+        0.2705962945320035
+      ],
+      "height": 0.1450420798707037,
+      "contacts": 0,
+      "command": [
+        0.0,
+        0.0,
+        0.65
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "turning",
+        "turns": 1,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.345,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 4,
+      "base": [
+        0.24802705849214823,
+        0.04548826712172147,
+        0.13579948835790398,
+        0.9076982482595707,
+        0.017604236541668317,
+        0.05678677974450831,
+        0.4153904700502177
+      ],
+      "height": 0.13579948835790398,
+      "contacts": 0,
+      "command": [
+        0.25,
+        0.0,
+        -0.118498912424197
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 1,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 1.034,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 5,
+      "base": [
+        0.29987597448416486,
+        0.15909450566638658,
+        0.1432537173434007,
+        0.9119574359482414,
+        -0.04494317647907914,
+        0.010493471500832626,
+        0.40768079788302686
+      ],
+      "height": 0.1432537173434007,
+      "contacts": 0,
+      "command": [
+        0.25,
+        0.0,
+        -0.11445430697886899
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 1,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.954,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 6,
+      "base": [
+        0.3801382347608866,
+        0.25104920827288935,
+        0.1405743763986244,
+        0.8954940134394378,
+        -0.08276389814209396,
+        0.015746384150523596,
+        0.43702707060848706
+      ],
+      "height": 0.1405743763986244,
+      "contacts": 0,
+      "command": [
+        0.25,
+        0.0,
+        -0.08613854207939232
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 1,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.89,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 7,
+      "base": [
+        0.46845654570642586,
+        0.330351159610769,
+        0.13968350891299722,
+        0.8665085685537257,
+        -0.0042554757749765785,
+        0.014558877054301263,
+        0.4989316893601946
+      ],
+      "height": 0.13968350891299722,
+      "contacts": 0,
+      "command": [
+        0.25,
+        0.0,
+        -0.04262904552049405
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 1,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.847,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 8,
+      "base": [
+        0.5270884806037373,
+        0.4275416309132359,
+        0.14054691864227747,
+        0.8250530624428744,
+        0.0035785998755801323,
+        0.01279605824977674,
+        0.5648990163470228
+      ],
+      "height": 0.14054691864227747,
+      "contacts": 0,
+      "command": [
+        0.25,
+        0.0,
+        0.012255858377413558
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 1,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.739,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 9,
+      "base": [
+        0.5686037626171234,
+        0.5414119355480397,
+        0.1391323578953651,
+        0.7811255702399936,
+        -0.01353012230158303,
+        0.0033884550964834144,
+        0.6242181491111958
+      ],
+      "height": 0.1391323578953651,
+      "contacts": 0,
+      "command": [
+        0.25,
+        0.0,
+        0.06437903302868461
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 1,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.628,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 10,
+      "base": [
+        0.6020633275263777,
+        0.651705894629955,
+        0.14119625808949982,
+        0.7261655311633194,
+        0.006205189984317306,
+        0.024457086553414272,
+        0.6870567428421543
+      ],
+      "height": 0.14119625808949982,
+      "contacts": 0,
+      "command": [
+        0.2,
+        0.0,
+        0.10309833252813223
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 1,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.513,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 11,
+      "base": [
+        0.6195666118878009,
+        0.7481173995001918,
+        0.1446062653104478,
+        0.6631030713619458,
+        0.03220955584692856,
+        0.05430012537031932,
+        0.7458608165383568
+      ],
+      "height": 0.1446062653104478,
+      "contacts": 0,
+      "command": [
+        0.2,
+        0.0,
+        0.11971305405703274
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 1,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.414,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 12,
+      "base": [
+        0.5810951773018892,
+        0.798094161442421,
+        0.14044484237946797,
+        0.5310083972173706,
+        -0.04638188293671547,
+        -0.0016159276492165933,
+        0.8460946707063671
+      ],
+      "height": 0.14044484237946797,
+      "contacts": 0,
+      "command": [
+        0.0,
+        0.0,
+        0.65
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "turning",
+        "turns": 2,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.364,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 13,
+      "base": [
+        0.5854681275568804,
+        0.7870210139231502,
+        0.14166533771588907,
+        0.32596545431830126,
+        -0.030849926747326492,
+        -0.03606555338819544,
+        0.944189642216833
+      ],
+      "height": 0.14166533771588907,
+      "contacts": 0,
+      "command": [
+        0.0,
+        0.0,
+        0.65
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "turning",
+        "turns": 2,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.417,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 14,
+      "base": [
+        0.5891177987071995,
+        0.8245567931093889,
+        0.140213503244582,
+        0.16250751479110834,
+        -0.020541647410113814,
+        0.0036453407836413813,
+        0.9864867256322646
+      ],
+      "height": 0.140213503244582,
+      "contacts": 0,
+      "command": [
+        0.2,
+        0.0,
+        0.032245965262458244
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 2,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.503,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 15,
+      "base": [
+        0.4923093730253903,
+        0.8667113980181865,
+        0.14453740201112558,
+        0.1691783616292593,
+        -0.0208353628546382,
+        0.06534263067332546,
+        0.9831962724847184
+      ],
+      "height": 0.14453740201112558,
+      "contacts": 0,
+      "command": [
+        0.2,
+        0.0,
+        -0.022843348464219267
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 2,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.442,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 16,
+      "base": [
+        0.39201469820097923,
+        0.9004767364812053,
+        0.13643748836949043,
+        0.1613688166919899,
+        -0.013417001920180008,
+        0.04190208170088524,
+        0.9859129295267567
+      ],
+      "height": 0.13643748836949043,
+      "contacts": 0,
+      "command": [
+        0.2,
+        0.0,
+        -0.07093339035893745
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 2,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.42,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 17,
+      "base": [
+        0.35918408513879807,
+        0.8689721527519052,
+        0.14425407975794496,
+        -0.010941641350641481,
+        -0.02355409423554325,
+        -0.03775716854640713,
+        0.9989493887843647
+      ],
+      "height": 0.14425407975794496,
+      "contacts": 0,
+      "command": [
+        0.25,
+        0.0,
+        -0.10720589110943694
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 3,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.65,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 18,
+      "base": [
+        0.23812641813881455,
+        0.8721292275080417,
+        0.1380334873926974,
+        -0.002711926495844675,
+        -0.04311815541557731,
+        -0.05687523954361599,
+        0.9974460773671411
+      ],
+      "height": 0.1380334873926974,
+      "contacts": 0,
+      "command": [
+        0.2,
+        0.0,
+        -0.11999994754324562
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 3,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.543,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 19,
+      "base": [
+        0.12605584500043265,
+        0.8980474049544768,
+        0.14259274812200487,
+        -0.014067318363732663,
+        -0.02110839511002897,
+        0.03799872546705083,
+        0.9989557763348736
+      ],
+      "height": 0.14259274812200487,
+      "contacts": 0,
+      "command": [
+        0.2,
+        0.0,
+        -0.10856139233156303
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 3,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.544,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 20,
+      "base": [
+        0.03666444481269816,
+        0.910343565337897,
+        0.14453136866151722,
+        -0.06685358361045375,
+        0.01672341180041846,
+        0.06605883916370268,
+        0.9954331497516736
+      ],
+      "height": 0.14453136866151722,
+      "contacts": 0,
+      "command": [
+        0.0,
+        0.0,
+        -0.65
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "turning",
+        "turns": 4,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.417,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 21,
+      "base": [
+        -0.0055853176928941,
+        0.8820357242324184,
+        0.1371265787036522,
+        0.009033300972585341,
+        -0.0496851481682888,
+        0.0007991450195814751,
+        0.9987237590506546
+      ],
+      "height": 0.1371265787036522,
+      "contacts": 0,
+      "command": [
+        0.2,
+        0.0,
+        -0.02393912183783751
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 4,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.545,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 22,
+      "base": [
+        -0.10638751118377741,
+        0.8947024592030028,
+        0.13769762276923034,
+        -0.054736281714120726,
+        -0.03554032816533058,
+        0.01192757105832319,
+        0.9977968518624734
+      ],
+      "height": 0.13769762276923034,
+      "contacts": 0,
+      "command": [
+        0.2,
+        0.0,
+        0.03102266056625519
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 4,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.434,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 23,
+      "base": [
+        -0.20003679797102794,
+        0.8936129405899181,
+        0.13974434790000742,
+        -0.1150981863076005,
+        -0.029658091436124658,
+        0.007286084836512594,
+        0.9928845441887104
+      ],
+      "height": 0.13974434790000742,
+      "contacts": 0,
+      "command": [
+        0.0,
+        0.0,
+        -0.65
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "turning",
+        "turns": 5,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.344,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 24,
+      "base": [
+        -0.25226981872858534,
+        0.8733071535848373,
+        0.14551253859585395,
+        0.024887164858002533,
+        -0.06255828830281696,
+        -0.07207738021457465,
+        0.9951240831430795
+      ],
+      "height": 0.14551253859585395,
+      "contacts": 0,
+      "command": [
+        0.25,
+        0.0,
+        0.11058415550302808
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 5,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.643,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 25,
+      "base": [
+        -0.3657738815756423,
+        0.8845027602921947,
+        0.14249894064576704,
+        -0.04303030490940076,
+        -0.0450984255948048,
+        -0.0818724218227495,
+        0.9946916262908585
+      ],
+      "height": 0.14249894064576704,
+      "contacts": 0,
+      "command": [
+        0.25,
+        0.0,
+        0.11973069330806123
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 5,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.798,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 26,
+      "base": [
+        -0.4819378917735288,
+        0.8832681917529043,
+        0.14000334946233303,
+        -0.11861218032462714,
+        -0.033538603515387275,
+        -0.07918600175712166,
+        0.9892097299757
+      ],
+      "height": 0.14000334946233303,
+      "contacts": 0,
+      "command": [
+        0.25,
+        0.0,
+        0.10365564535116568
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 5,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.683,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 27,
+      "base": [
+        -0.5984276782963263,
+        0.856525749921533,
+        0.13849213945617378,
+        -0.1839802131171785,
+        -0.02231088819136952,
+        -0.0665967799721915,
+        0.9804174490219995
+      ],
+      "height": 0.13849213945617378,
+      "contacts": 0,
+      "command": [
+        0.25,
+        0.0,
+        0.0650730780954124
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 5,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.563,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 28,
+      "base": [
+        -0.6972845562349873,
+        0.8241330365106542,
+        0.1373917432186697,
+        -0.2662900313395185,
+        -0.009215832736168042,
+        -0.04541158203934673,
+        0.9627785185871465
+      ],
+      "height": 0.1373917432186697,
+      "contacts": 0,
+      "command": [
+        0.2,
+        0.0,
+        0.016142957506694644
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 5,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.464,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 29,
+      "base": [
+        -0.7874192455539283,
+        0.7854059435462859,
+        0.1393290424290065,
+        -0.3299266616603447,
+        -0.008242087699076089,
+        -0.01635991952350499,
+        0.9438288080733747
+      ],
+      "height": 0.1393290424290065,
+      "contacts": 0,
+      "command": [
+        0.0,
+        0.0,
+        0.65
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "turning",
+        "turns": 6,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.382,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 30,
+      "base": [
+        -0.8288419152543639,
+        0.7897036427034054,
+        0.14495592782625003,
+        -0.5450383824862114,
+        -0.03284460156763892,
+        0.03284984832284818,
+        0.8371232174715048
+      ],
+      "height": 0.14495592782625003,
+      "contacts": 0,
+      "command": [
+        0.0,
+        0.0,
+        0.65
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "turning",
+        "turns": 6,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.458,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 31,
+      "base": [
+        -0.8092620546034517,
+        0.7210394211003952,
+        0.1397863855666045,
+        -0.5963180385236858,
+        0.0018589378866785775,
+        -0.0010862786675661078,
+        0.8027453900707577
+      ],
+      "height": 0.1397863855666045,
+      "contacts": 0,
+      "command": [
+        0.25,
+        0.0,
+        -0.11320445593318594
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 6,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.569,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 32,
+      "base": [
+        -0.8209294698783641,
+        0.6251397610598216,
+        0.1432155633498382,
+        -0.56933206403168,
+        0.02140048914408662,
+        -0.05303003913318058,
+        0.820116354476213
+      ],
+      "height": 0.1432155633498382,
+      "contacts": 0,
+      "command": [
+        0.2,
+        0.0,
+        -0.11903209432714751
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 6,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.49,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 33,
+      "base": [
+        -0.8839547142322869,
+        0.5510830495798428,
+        0.1412159267979296,
+        -0.5521687175972435,
+        -0.034241858264869064,
+        -0.0027999478932871007,
+        0.8330242269834522
+      ],
+      "height": 0.1412159267979296,
+      "contacts": 0,
+      "command": [
+        0.0,
+        0.0,
+        0.65
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "turning",
+        "turns": 7,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.384,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 34,
+      "base": [
+        -0.8889816484220475,
+        0.5135303703857336,
+        0.14059496942774827,
+        -0.6582710641338101,
+        -0.06543867245337234,
+        -0.014613800423634207,
+        0.7497889190357908
+      ],
+      "height": 0.14059496942774827,
+      "contacts": 0,
+      "command": [
+        0.25,
+        0.0,
+        -0.061648124526207666
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 7,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.579,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 35,
+      "base": [
+        -0.898210823272865,
+        0.4120535478301405,
+        0.1365565965993203,
+        -0.6780019512564136,
+        -0.024168029926227984,
+        0.005889225747680818,
+        0.7346390797133472
+      ],
+      "height": 0.1365565965993203,
+      "contacts": 0,
+      "command": [
+        0.25,
+        0.0,
+        -0.009145773352599347
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 7,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.603,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 36,
+      "base": [
+        -0.8983794343305297,
+        0.2894816721041656,
+        0.14073335236315454,
+        -0.7211690782082236,
+        -0.012423913368380252,
+        -0.04821015560759424,
+        0.6909678631522654
+      ],
+      "height": 0.14073335236315454,
+      "contacts": 0,
+      "command": [
+        0.25,
+        0.0,
+        0.04536529986958123
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 7,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.749,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 37,
+      "base": [
+        -0.8991737214293805,
+        0.17731050855374275,
+        0.14239799891944777,
+        -0.7801676483089591,
+        -0.007766015028521702,
+        -0.06687479413097953,
+        0.6219372086091841
+      ],
+      "height": 0.14239799891944777,
+      "contacts": 0,
+      "command": [
+        0.25,
+        0.0,
+        0.09039655173743345
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 7,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.754,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 38,
+      "base": [
+        -0.8769737275362851,
+        0.058447295369103806,
+        0.14280809903656735,
+        -0.8358683698482513,
+        0.007510015227117459,
+        -0.06629851011646432,
+        0.5448597760110879
+      ],
+      "height": 0.14280809903656735,
+      "contacts": 0,
+      "command": [
+        0.25,
+        0.0,
+        0.11613079948793482
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 7,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.618,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 39,
+      "base": [
+        -0.8300989089806791,
+        -0.048035559964936664,
+        0.1437693914027926,
+        -0.8679978485389277,
+        0.030782906010736192,
+        -0.06769783499193008,
+        0.4909675659009779
+      ],
+      "height": 0.1437693914027926,
+      "contacts": 0,
+      "command": [
+        0.2,
+        0.0,
+        0.11795080660227543
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 7,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.51,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 40,
+      "base": [
+        -0.777246963420116,
+        -0.13732558543252182,
+        0.14018369993796737,
+        -0.8896733539752362,
+        0.034134869547635484,
+        -0.06788442783210047,
+        0.4502308722925703
+      ],
+      "height": 0.14018369993796737,
+      "contacts": 0,
+      "command": [
+        0.2,
+        0.0,
+        0.09535871737609335
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 7,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.404,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 41,
+      "base": [
+        -0.7801164203796107,
+        -0.19940062616469675,
+        0.14351398910254967,
+        -0.960657478739889,
+        -0.029061447564226628,
+        0.006758823864824647,
+        0.27612851918365067
+      ],
+      "height": 0.14351398910254967,
+      "contacts": 0,
+      "command": [
+        0.0,
+        0.0,
+        0.65
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "turning",
+        "turns": 8,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.381,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 42,
+      "base": [
+        -0.7455929197320248,
+        -0.19701408372209825,
+        0.1379914476411203,
+        -0.9902546555562591,
+        -0.0409537666533268,
+        -0.04635983595218373,
+        0.12477688791016851
+      ],
+      "height": 0.1379914476411203,
+      "contacts": 0,
+      "command": [
+        0.25,
+        0.0,
+        -0.0008379566446248285
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 8,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 1.2,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 43,
+      "base": [
+        -0.6357679439393541,
+        -0.2022157479740321,
+        0.14123971862332682,
+        -0.9922859294441524,
+        0.03059080353046586,
+        -0.022492850792821945,
+        0.11801232405866709
+      ],
+      "height": 0.14123971862332682,
+      "contacts": 0,
+      "command": [
+        0.25,
+        0.0,
+        -0.05439267898836288
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 8,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 1.2,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 44,
+      "base": [
+        -0.5133950484472867,
+        -0.23298101787581224,
+        0.14466555298272094,
+        -0.9891613152302853,
+        0.06366786391440896,
+        -0.06959741352142608,
+        0.11252775474342717
+      ],
+      "height": 0.14466555298272094,
+      "contacts": 0,
+      "command": [
+        0.25,
+        0.0,
+        -0.09480303108527675
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 8,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 1.121,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 45,
+      "base": [
+        -0.4057409370657215,
+        -0.2668301845056552,
+        0.14277674205070243,
+        -0.9943604672662191,
+        0.07444469896139003,
+        -0.053791912431174246,
+        0.05302525899655163
+      ],
+      "height": 0.14277674205070243,
+      "contacts": 0,
+      "command": [
+        0.25,
+        0.0,
+        -0.11769850311620476
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 8,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 1.01,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 46,
+      "base": [
+        -0.2893727090599134,
+        -0.29203985580737907,
+        0.14117825644989712,
+        -0.99568492393632,
+        0.07666514324377142,
+        -0.05066177809130732,
+        -0.012937244604767159
+      ],
+      "height": 0.14117825644989712,
+      "contacts": 0,
+      "command": [
+        0.25,
+        0.0,
+        -0.11575924641120167
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 8,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.894,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 47,
+      "base": [
+        -0.1708213391933461,
+        -0.2946373662026893,
+        0.14088070824978616,
+        -0.9930648550042502,
+        0.07575054212428457,
+        -0.04111317412620694,
+        -0.07996096570535947
+      ],
+      "height": 0.14088070824978616,
+      "contacts": 0,
+      "command": [
+        0.25,
+        0.0,
+        -0.09104165868369869
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 8,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.781,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 48,
+      "base": [
+        -0.05383994397322426,
+        -0.28572726149367117,
+        0.1406651639803394,
+        -0.9788012127708358,
+        0.08644784309643858,
+        -0.031029777930241587,
+        -0.18306312895805651
+      ],
+      "height": 0.1406651639803394,
+      "contacts": 0,
+      "command": [
+        0.25,
+        0.0,
+        -0.04669898962675953
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 8,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.657,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 49,
+      "base": [
+        0.05635829785184319,
+        -0.24920121066800996,
+        0.14069495226404785,
+        -0.9601820059577745,
+        0.08160247706239676,
+        -0.01709416077192982,
+        -0.26664459649445127
+      ],
+      "height": 0.14069495226404785,
+      "contacts": 0,
+      "command": [
+        0.2,
+        0.0,
+        0.008057414444679159
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 8,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.54,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 50,
+      "base": [
+        0.1433618688866154,
+        -0.20394378542477035,
+        0.14007775432488145,
+        -0.9336537150122011,
+        0.07122600454212444,
+        -0.004752921644887732,
+        -0.3509914620852153
+      ],
+      "height": 0.14007775432488145,
+      "contacts": 0,
+      "command": [
+        0.2,
+        0.0,
+        0.06069657118839358
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 8,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.471,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 51,
+      "base": [
+        0.2229867820998495,
+        -0.14764240474115728,
+        0.13722455119714194,
+        -0.9097734525372765,
+        0.03508585685389727,
+        -0.006380646237874832,
+        -0.4135704716983784
+      ],
+      "height": 0.13722455119714194,
+      "contacts": 0,
+      "command": [
+        0.2,
+        0.0,
+        0.09908504063312071
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 8,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.398,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 52,
+      "base": [
+        0.2927160610962154,
+        -0.1209765359277381,
+        0.145995874227179,
+        -0.8184613513320004,
+        -0.04432267394660143,
+        -0.03200906090949093,
+        -0.5719544885475701
+      ],
+      "height": 0.145995874227179,
+      "contacts": 0,
+      "command": [
+        0.0,
+        0.0,
+        0.65
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "turning",
+        "turns": 9,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 1.2,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 53,
+      "base": [
+        0.2986267598547014,
+        -0.031265323436608566,
+        0.1360425649576855,
+        -0.7885991867429846,
+        -0.015301254964728301,
+        -0.029846957547556115,
+        -0.6139921444041142
+      ],
+      "height": 0.1360425649576855,
+      "contacts": 0,
+      "command": [
+        0.25,
+        0.0,
+        0.1135577518500921
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 9,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 1.193,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 54,
+      "base": [
+        0.3162948999321002,
+        0.09381494909786628,
+        0.14120978417655514,
+        -0.7758518889560022,
+        0.03435512198594804,
+        -0.00966923550496277,
+        -0.6299048165250711
+      ],
+      "height": 0.14120978417655514,
+      "contacts": 0,
+      "command": [
+        0.25,
+        0.0,
+        0.08425205658157983
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 9,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 1.068,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 55,
+      "base": [
+        0.33584334771858654,
+        0.2121471733417325,
+        0.143907469808262,
+        -0.734666091344423,
+        0.09287713226188804,
+        0.0010290429588476085,
+        -0.6720405594918403
+      ],
+      "height": 0.143907469808262,
+      "contacts": 0,
+      "command": [
+        0.25,
+        0.0,
+        0.03988279167291721
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 9,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.955,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 56,
+      "base": [
+        0.3482949537270887,
+        0.32657686295883115,
+        0.1429522520270802,
+        -0.6834391542613094,
+        0.08776943859954515,
+        0.016650680162375153,
+        -0.7245206711479228
+      ],
+      "height": 0.1429522520270802,
+      "contacts": 0,
+      "command": [
+        0.25,
+        0.0,
+        -0.015029557420703315
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 9,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.837,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 57,
+      "base": [
+        0.3410831903988637,
+        0.4448199996577516,
+        0.1408832381177256,
+        -0.6578984068415773,
+        0.07846403093943141,
+        0.022835633533068417,
+        -0.7486598800291047
+      ],
+      "height": 0.1408832381177256,
+      "contacts": 0,
+      "command": [
+        0.25,
+        0.0,
+        -0.06702360205262309
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 9,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.718,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 58,
+      "base": [
+        0.33107581582164985,
+        0.5635926475398925,
+        0.13966049101434688,
+        -0.6095945253052816,
+        0.07171522244370424,
+        0.03300678886850236,
+        -0.7887724598870514
+      ],
+      "height": 0.13966049101434688,
+      "contacts": 0,
+      "command": [
+        0.25,
+        0.0,
+        -0.10304372009935936
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 9,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.603,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 59,
+      "base": [
+        0.3054845889957443,
+        0.6712704672106616,
+        0.13833797654067767,
+        -0.5751799174564096,
+        0.05122781136395317,
+        0.02916847570024754,
+        -0.8159001004553329
+      ],
+      "height": 0.13833797654067767,
+      "contacts": 0,
+      "command": [
+        0.2,
+        0.0,
+        -0.1196801209791016
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 9,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.49,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 60,
+      "base": [
+        0.28287803945547724,
+        0.7675693968071955,
+        0.13714778645210693,
+        -0.5430809877799745,
+        0.026969016983074003,
+        0.019495884658709613,
+        -0.8390206334270137
+      ],
+      "height": 0.13714778645210693,
+      "contacts": 0,
+      "command": [
+        0.2,
+        0.0,
+        -0.11097535650372588
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 9,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.392,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 61,
+      "base": [
+        0.2825693562759065,
+        0.8273884181126737,
+        0.1412796837882357,
+        -0.35112080305727567,
+        0.0035070064665284964,
+        -0.006292222982922952,
+        -0.9363024567392684
+      ],
+      "height": 0.1412796837882357,
+      "contacts": 0,
+      "command": [
+        0.0,
+        0.0,
+        0.65
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "turning",
+        "turns": 10,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.367,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 62,
+      "base": [
+        0.28204704875512415,
+        0.8448540799107297,
+        0.14074040354780692,
+        -0.14266855058765787,
+        0.01009359118701669,
+        -0.039792525777091074,
+        -0.9889187828039501
+      ],
+      "height": 0.14074040354780692,
+      "contacts": 0,
+      "command": [
+        0.0,
+        0.0,
+        0.65
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "turning",
+        "turns": 10,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.504,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 63,
+      "base": [
+        0.19916284092084874,
+        0.8326409815246933,
+        0.14149429047682127,
+        -0.09073945775565198,
+        0.020837417469839106,
+        0.03078712952839248,
+        -0.9951805391459383
+      ],
+      "height": 0.14149429047682127,
+      "contacts": 0,
+      "command": [
+        0.25,
+        0.0,
+        0.023748925016421226
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 10,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.605,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 64,
+      "base": [
+        0.08071268236811235,
+        0.8644335206292446,
+        0.14313227817784782,
+        -0.05419762221925461,
+        0.05193464168294035,
+        0.05410343288800995,
+        -0.995709912217798
+      ],
+      "height": 0.14313227817784782,
+      "contacts": 0,
+      "command": [
+        0.25,
+        0.0,
+        0.07206095820641462
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 10,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.597,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 65,
+      "base": [
+        -0.03477291087334684,
+        0.8692825158936591,
+        0.1453176949981935,
+        0.004959936999199079,
+        0.054564808099691844,
+        0.07968339332870938,
+        -0.9953133363768567
+      ],
+      "height": 0.1453176949981935,
+      "contacts": 0,
+      "command": [
+        0.2,
+        0.0,
+        0.10772362072502517
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 10,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.501,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 66,
+      "base": [
+        -0.12763043919149464,
+        0.8919217772494807,
+        0.13876534185984574,
+        0.06537135196217714,
+        0.021049500435587898,
+        0.009932177763607764,
+        -0.9975895231601627
+      ],
+      "height": 0.13876534185984574,
+      "contacts": 0,
+      "command": [
+        0.2,
+        0.0,
+        0.11999791979902617
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 10,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.447,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 67,
+      "base": [
+        -0.15906329740265304,
+        0.9146072368137173,
+        0.14507538777171994,
+        -0.008389298448590873,
+        0.01880452995075851,
+        -0.0532345675236963,
+        -0.998369716160019
+      ],
+      "height": 0.14507538777171994,
+      "contacts": 0,
+      "command": [
+        0.25,
+        0.0,
+        0.10743184724687954
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 11,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.629,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 68,
+      "base": [
+        -0.2537764897470754,
+        0.8767091467894345,
+        0.13845920227792347,
+        0.05038021694551828,
+        0.035080185255667105,
+        0.016685190379601672,
+        -0.99797435776925
+      ],
+      "height": 0.13845920227792347,
+      "contacts": 0,
+      "command": [
+        0.2,
+        0.0,
+        0.07386715530308538
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 11,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.408,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 69,
+      "base": [
+        -0.31338203716207036,
+        0.855475088378054,
+        0.14435607497166786,
+        0.01520855334710228,
+        0.022513156807059342,
+        0.06537252388574676,
+        -0.9974909978523492
+      ],
+      "height": 0.14435607497166786,
+      "contacts": 0,
+      "command": [
+        0.0,
+        0.0,
+        -0.65
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "turning",
+        "turns": 12,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.835,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 70,
+      "base": [
+        -0.3991686766104285,
+        0.8901208719653119,
+        0.14015401286604956,
+        -0.0168711489125975,
+        0.0008246519053213777,
+        -0.010207444393005166,
+        -0.9998052272130648
+      ],
+      "height": 0.14015401286604956,
+      "contacts": 0,
+      "command": [
+        0.25,
+        0.0,
+        -0.031584912567731716
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 12,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.641,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 71,
+      "base": [
+        -0.5190132398214417,
+        0.9029294252572027,
+        0.14138464526307226,
+        0.0490957119574618,
+        0.005184958860770929,
+        -0.02047377662261921,
+        -0.9985707544985528
+      ],
+      "height": 0.14138464526307226,
+      "contacts": 0,
+      "command": [
+        0.25,
+        0.0,
+        -0.08007993251871202
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 12,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.644,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 72,
+      "base": [
+        -0.6362572991625767,
+        0.8964898832436827,
+        0.14205789163332558,
+        0.11183298386597997,
+        0.019183310339583023,
+        -0.030879573176258637,
+        -0.9930618491738062
+      ],
+      "height": 0.14205789163332558,
+      "contacts": 0,
+      "command": [
+        0.2,
+        0.0,
+        -0.11048270852216793
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 12,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.529,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 73,
+      "base": [
+        -0.7367947943867869,
+        0.8804741877376664,
+        0.14386468054916687,
+        0.16981297162821754,
+        0.02349951262575727,
+        -0.04566034484130359,
+        -0.9841374195111772
+      ],
+      "height": 0.14386468054916687,
+      "contacts": 0,
+      "command": [
+        0.2,
+        0.0,
+        -0.11976572252546876
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 12,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.426,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 74,
+      "base": [
+        -0.8096953094549679,
+        0.8634720688093445,
+        0.14284195023204593,
+        0.3145880085575465,
+        0.025016210221358682,
+        -0.05167153654865561,
+        -0.9474906999061572
+      ],
+      "height": 0.14284195023204593,
+      "contacts": 0,
+      "command": [
+        0.0,
+        0.0,
+        0.65
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "turning",
+        "turns": 13,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.363,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 75,
+      "base": [
+        -0.7751200265820762,
+        0.835653042429051,
+        0.1436501644143361,
+        0.510730968303083,
+        0.002600758214608675,
+        0.034478430836668614,
+        -0.8590450231972385
+      ],
+      "height": 0.1436501644143361,
+      "contacts": 0,
+      "command": [
+        0.0,
+        0.0,
+        0.65
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "turning",
+        "turns": 13,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.495,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 76,
+      "base": [
+        -0.7962985220132476,
+        0.797542128973709,
+        0.14042177592052146,
+        0.6056358706177157,
+        -0.017694491162966876,
+        0.06787326209156595,
+        -0.792644508904625
+      ],
+      "height": 0.14042177592052146,
+      "contacts": 0,
+      "command": [
+        0.25,
+        0.0,
+        -0.014547240279375402
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 13,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.587,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 77,
+      "base": [
+        -0.8519211024898142,
+        0.7052873132537875,
+        0.13916701553192967,
+        0.6073415050079903,
+        0.028523070492757773,
+        0.01823185931126596,
+        -0.7937193018002965
+      ],
+      "height": 0.13916701553192967,
+      "contacts": 0,
+      "command": [
+        0.2,
+        0.0,
+        0.03764080049432275
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 13,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.496,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 78,
+      "base": [
+        -0.8966056722877895,
+        0.6112395746991163,
+        0.14458276712076853,
+        0.607033692137956,
+        0.042609763153029716,
+        -0.028079988386849237,
+        -0.7930359506009782
+      ],
+      "height": 0.14458276712076853,
+      "contacts": 0,
+      "command": [
+        0.2,
+        0.0,
+        0.0848341175938862
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 13,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.431,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 79,
+      "base": [
+        -0.9196904527976195,
+        0.505643873149206,
+        0.13721437851204027,
+        0.6523930997909434,
+        0.035674226093180716,
+        -0.019397378400877453,
+        -0.7567921343730996
+      ],
+      "height": 0.13721437851204027,
+      "contacts": 0,
+      "command": [
+        0.2,
+        0.0,
+        0.11295490574089703
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 13,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.499,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 80,
+      "base": [
+        -0.9256970761279775,
+        0.39718298060797164,
+        0.13928775240050018,
+        0.7074799600288624,
+        0.02494280996346881,
+        0.03176495059839507,
+        -0.7055784508487812
+      ],
+      "height": 0.13928775240050018,
+      "contacts": 0,
+      "command": [
+        0.25,
+        0.0,
+        0.11914777548019796
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 13,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.62,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 81,
+      "base": [
+        -0.9185433758050305,
+        0.2821994121532756,
+        0.14223365457447049,
+        0.7559017820773608,
+        -0.0011503221066741674,
+        0.07102761479276562,
+        -0.650819675907367
+      ],
+      "height": 0.14223365457447049,
+      "contacts": 0,
+      "command": [
+        0.25,
+        0.0,
+        0.10017366600297772
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 13,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.845,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 82,
+      "base": [
+        -0.9138738247911724,
+        0.16920355303716436,
+        0.1428665197020942,
+        0.8115313311478729,
+        -0.005022027676921392,
+        0.08365609902961983,
+        -0.5782675288294514
+      ],
+      "height": 0.1428665197020942,
+      "contacts": 0,
+      "command": [
+        0.25,
+        0.0,
+        0.06038737346304826
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 13,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.743,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 83,
+      "base": [
+        -0.8785185018278824,
+        0.05271672774432221,
+        0.1430100156041697,
+        0.8555065593395986,
+        -0.020162232031177122,
+        0.07815493711083911,
+        -0.5114624298339457
+      ],
+      "height": 0.1430100156041697,
+      "contacts": 0,
+      "command": [
+        0.25,
+        0.0,
+        0.010148669167207526
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 13,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.633,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 84,
+      "base": [
+        -0.8304102141894716,
+        -0.05054633243676559,
+        0.14377995729348028,
+        0.8906327947801185,
+        -0.040479223990780605,
+        0.0778161019151247,
+        -0.44618304715665
+      ],
+      "height": 0.14377995729348028,
+      "contacts": 0,
+      "command": [
+        0.2,
+        0.0,
+        -0.0443900284718243
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 13,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.5,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 85,
+      "base": [
+        -0.7780921999362449,
+        -0.1352426147079557,
+        0.14377674351759093,
+        0.915159356792938,
+        -0.045093771077555016,
+        0.07726324341394586,
+        -0.39303981312520825
+      ],
+      "height": 0.14377674351759093,
+      "contacts": 0,
+      "command": [
+        0.2,
+        0.0,
+        -0.0895402356742774
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 13,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.412,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 86,
+      "base": [
+        -0.756026048274972,
+        -0.17185095180873675,
+        0.14042272871355066,
+        0.9694959727149118,
+        -0.047375967464427717,
+        0.024153472085215257,
+        -0.2392690669154832
+      ],
+      "height": 0.14042272871355066,
+      "contacts": 0,
+      "command": [
+        0.0,
+        0.0,
+        0.65
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "turning",
+        "turns": 14,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.427,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 87,
+      "base": [
+        -0.7280853379699502,
+        -0.21614145640546667,
+        0.14243136253277616,
+        0.9926773438154523,
+        0.025798357351124145,
+        0.03764046057180016,
+        -0.11184512310076546
+      ],
+      "height": 0.14243136253277616,
+      "contacts": 0,
+      "command": [
+        0.25,
+        0.0,
+        -0.11801631054432084
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 14,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 1.2,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 88,
+      "base": [
+        -0.6108129866893969,
+        -0.2503280311386839,
+        0.1418726165909857,
+        0.9924537764235797,
+        0.05822388943450521,
+        0.01836633869274773,
+        -0.106339823042533
+      ],
+      "height": 0.1418726165909857,
+      "contacts": 0,
+      "command": [
+        0.25,
+        0.0,
+        -0.09584440392138306
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 14,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 1.2,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 89,
+      "base": [
+        -0.4957754357772748,
+        -0.27867038475269584,
+        0.14063362465870632,
+        0.9976873747859153,
+        0.05391812490566618,
+        0.033437296990475825,
+        -0.024386167583613203
+      ],
+      "height": 0.14063362465870632,
+      "contacts": 0,
+      "command": [
+        0.25,
+        0.0,
+        -0.05574581536246701
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 14,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 1.103,
+        "simulated": true
+      },
+      "error": ""
+    },
+    {
+      "second": 90,
+      "base": [
+        -0.3764481442500318,
+        -0.28844461959677903,
+        0.13814188103842,
+        0.997761564442958,
+        0.04936912476379458,
+        0.030927937159175772,
+        0.03283310438379669
+      ],
+      "height": 0.13814188103842,
+      "contacts": 0,
+      "command": [
+        0.25,
+        0.0,
+        -0.0021427141265783008
+      ],
+      "wandering": {
+        "active": true,
+        "phase": "walking",
+        "turns": 14,
+        "sensor": "Ideal virtual depth slice: 8 rays, 45 degrees, 1.2 m",
+        "nearest_m": 0.98,
+        "simulated": true
+      },
+      "error": ""
+    }
+  ],
+  "package_sha256": "91dd4aa4a41f41ee615e9742d82620bd6aac6fc3ab699715ce1e6b18a2cc3797"
+}

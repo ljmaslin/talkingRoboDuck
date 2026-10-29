@@ -1,0 +1,13 @@
+FROM python:3.12-slim-bookworm@sha256:6dd8b6dab6b3adc7812bab69eca5dbdc1a5cc690ad28306d234ffb4ef8ac9753
+ENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1
+RUN apt-get update && apt-get install -y --no-install-recommends libgl1 libegl1 && rm -rf /var/lib/apt/lists/*
+COPY xgo-sim/requirements.txt /tmp/requirements.txt
+RUN pip install --no-cache-dir -r /tmp/requirements.txt
+COPY xgo-rl/src/mjlab_microduck/robot/xgoduck /opt/xgo/model
+COPY xgo-rl/vendor/bam/bam /opt/xgo/bam/bam
+COPY xgo-runtime/python/wire.py xgo-runtime/python/rl_core.py /opt/xgo/protocol/
+COPY xgo-sim/body.py /opt/xgo/body.py
+ENV PYTHONPATH=/opt/xgo/protocol:/opt/xgo/bam
+ENV OPENBLAS_NUM_THREADS=1 OMP_NUM_THREADS=1 MKL_NUM_THREADS=1
+USER 65532:65532
+CMD ["python", "/opt/xgo/body.py"]

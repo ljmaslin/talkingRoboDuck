@@ -1,0 +1,10 @@
+{
+  "state": {
+    "viewer": "XGO measured pose · 11 FPS · ANGLE (Google, Vulkan 1.3.0 (SwiftShader Device (Subzero) (0x0000C0DE)), SwiftShader driver)",
+    "state": "XGO UNO Q controller · controller ready · mode: shadow · 100 Hz feedback / 39 Hz policy",
+    "recordDisabled": false,
+    "canvas": true
+  },
+  "errors": [],
+  "scope": "Isolated headless Chrome; software renderer; no live mic test"
+}

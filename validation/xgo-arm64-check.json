@@ -1,0 +1,23 @@
+{
+  "architecture": "aarch64",
+  "manifest_files_verified": 60,
+  "models": [
+    "xgoduck_walk.onnx in=61 out=14 threads=1",
+    "xgoduck_getup.onnx in=61 out=14 threads=1",
+    "xgoduck_pick.onnx in=61 out=14 threads=1",
+    "xgoduck_roulade.onnx in=61 out=14 threads=1",
+    "xgoduck_roller.onnx in=61 out=14 threads=1"
+  ],
+  "speech": {
+    "stand": "duck standup",
+    "walk": "duck walk forward",
+    "stop": "duck stop",
+    "sit": "duck sit",
+    "negated": "duck do not sit",
+    "unprefixed": "sit"
+  },
+  "status": "passed",
+  "physical_hardware_validated": false,
+  "scope": "Debian bookworm / Python 3.12 ARM64 emulation",
+  "package_sha256": "91dd4aa4a41f41ee615e9742d82620bd6aac6fc3ab699715ce1e6b18a2cc3797"
+}
